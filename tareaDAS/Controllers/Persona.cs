@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
@@ -39,7 +40,7 @@ namespace tareaDAS.Controllers
             });
         }
 
-
+        
         // GET: Persona  ... detalle de todas las personas
         public ActionResult Index()
         {
@@ -109,9 +110,12 @@ namespace tareaDAS.Controllers
                 if (persona != null)
                 {
                     persona.nombre = datosUpate.nombre;
+                    persona.apellido = datosUpate.apellido;
                     persona.direccion = datosUpate.direccion;
+                    persona.area = datosUpate.area;
                     persona.salario = datosUpate.salario;
                     persona.cargo = datosUpate.cargo;
+                    //persona.fechaIngreso = datosUpate.fechaIngreso;
                 }
                 return RedirectToAction(nameof(Index));
             }

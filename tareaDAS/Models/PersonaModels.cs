@@ -14,6 +14,7 @@ namespace tareaDAS.Models
         public string area { get; set; }
         public string cargo { get; set; }
         public decimal salario { get; set; }
+        //public int fechaIngreso { get; set; }
 
     }
 }
