@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JHYY5YzC1o6K9MeoegGpwY0lEH9T0EsMoqemSQP0AU6Hy70gxJrWJw46BR39aI0SxIa9hzkGw7PrNsuXHLZj6g==",
+  "dgSpecHash": "8XNeK/lpx7e/870XQZjnzafVcQK6yvXQENbGOjFpuO5zEon7kb4/VUncJF/on8ybdZrfnYk//G8uL52/xc68eQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\danie\\source\\repos\\tareaDAS\\tareaDAS.csproj",
+  "projectFilePath": "C:\\Users\\danie\\Documents\\GitHub\\tareaDAS\\tareaDAS\\tareaDAS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.aspnetcore\\2.1.7\\microsoft.aspnetcore.2.1.7.nupkg.sha512",

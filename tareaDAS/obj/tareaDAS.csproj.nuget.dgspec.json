@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danie\\source\\repos\\tareaDAS\\tareaDAS.csproj": {}
+    "C:\\Users\\danie\\Documents\\GitHub\\tareaDAS\\tareaDAS\\tareaDAS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danie\\source\\repos\\tareaDAS\\tareaDAS.csproj": {
+    "C:\\Users\\danie\\Documents\\GitHub\\tareaDAS\\tareaDAS\\tareaDAS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danie\\source\\repos\\tareaDAS\\tareaDAS.csproj",
+        "projectUniqueName": "C:\\Users\\danie\\Documents\\GitHub\\tareaDAS\\tareaDAS\\tareaDAS.csproj",
         "projectName": "tareaDAS",
-        "projectPath": "C:\\Users\\danie\\source\\repos\\tareaDAS\\tareaDAS.csproj",
+        "projectPath": "C:\\Users\\danie\\Documents\\GitHub\\tareaDAS\\tareaDAS\\tareaDAS.csproj",
         "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danie\\source\\repos\\tareaDAS\\obj\\",
+        "outputPath": "C:\\Users\\danie\\Documents\\GitHub\\tareaDAS\\tareaDAS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -17,23 +17,18 @@ namespace tareaDAS.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = ".";
 
             return View();
         }
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Message"] = ".";
 
-            var p1 = new PersonaModels();
-            p1.nombre = "Nombre Uno";
-            p1.direccion = "San Salvador";
-            p1.salario = 500;
-            p1.cargo = "jefe";
             
 
-            return View(p1);
+            return View();
         }
 
         public IActionResult Privacy()
