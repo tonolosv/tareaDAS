@@ -14,11 +14,18 @@
         <tr>
             <th>
                 @Html.DisplayNameFor(model => model.Id)
-            </th><th>
+            </th>
+            <th>
                 @Html.DisplayNameFor(model => model.nombre)
             </th>
             <th>
+                @Html.DisplayNameFor(model => model.apellido)
+            </th>
+            <th>
                 @Html.DisplayNameFor(model => model.direccion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.area)
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.cargo)
@@ -39,7 +46,13 @@
                 @Html.DisplayFor(modelItem => item.nombre)
             </td>
             <td>
+                @Html.DisplayFor(modelItem => item.apellido)
+            </td>
+            <td>
                 @Html.DisplayFor(modelItem => item.direccion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.area)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.cargo)

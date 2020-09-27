@@ -17,14 +17,14 @@ namespace tareaDAS.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = ".";
+            ViewData["Message"] = "";
 
             return View();
         }
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = ".";
+            ViewData["Message"] = "";
 
             
 
