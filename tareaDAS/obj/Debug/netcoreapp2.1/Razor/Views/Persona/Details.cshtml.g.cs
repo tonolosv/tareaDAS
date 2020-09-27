@@ -153,7 +153,7 @@ Write(Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }));
             WriteLiteral(" |\r\n    ");
             EndContext();
             BeginContext(1059, 44, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b5a6bd46ad5648dbb84b6c9514bf9e87", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "00af40ee0a6d41c696ea1e11a4fbad20", async() => {
                 BeginContext(1081, 18, true);
                 WriteLiteral("Regresar a listado");
                 EndContext();
