@@ -18,16 +18,20 @@ namespace tareaDAS.Controllers
             personas.Add(new PersonaModels
             {
                 Id = 01,
-                nombre = "Pepe",
-                direccion = "Algo",
+                nombre = "Natanael",
+                apellido = "Hernandez",
+                direccion = "San Salvador",
+                area = "Logistica",
                 salario = 2000,
                 cargo = "Jefe"
             });
             personas.Add(new PersonaModels
             {
                 Id = 02,
-                nombre = "Simon",
-                direccion = "Algo por alli",
+                nombre = "Silvia",
+                apellido = "Gonzales",
+                direccion = "Ilopango",
+                area ="Administracion",
                 salario = 1000,
                 cargo = "Admin"
             });
