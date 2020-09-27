@@ -206,12 +206,12 @@ using tareaDAS.Models;
             WriteLiteral("\r\n        </dd>\r\n    </dl>\r\n    \r\n    ");
             EndContext();
             BeginContext(1500, 176, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d22928a030974fe0b0b221629af12f94", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ac8eb5aa1c354f4ea9e1114c6cdb5716", async() => {
                 BeginContext(1526, 93, true);
                 WriteLiteral("\r\n        <input type=\"submit\" value=\"Borrar Registro\" class=\"btn btn-default\" /> |\r\n        ");
                 EndContext();
                 BeginContext(1619, 44, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a8a76faf1b244411bc5ee131765ebdfe", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "13341382b71849b28dbbfe27e034033a", async() => {
                     BeginContext(1641, 18, true);
                     WriteLiteral("Regresar a listado");
                     EndContext();
