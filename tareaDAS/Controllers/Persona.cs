@@ -11,7 +11,9 @@ namespace tareaDAS.Controllers
     public class Persona : Controller
     {
         List<PersonaModels> personas = new List<PersonaModels>();
-        
+
+        public int id { get; private set; }
+
         public Persona()
         {
             //List<PersonaModels> personas = new List<PersonaModels>();
@@ -70,8 +72,8 @@ namespace tareaDAS.Controllers
         // GET: Persona/Create ...crear un elemento
         public ActionResult Create()
         {
-           // var persona = personas.Find(p => p.Id == Id);
-            return View();
+           var persona = personas.Find(p => p.Id == id);
+            return View(persona);
         }
 
         // POST: Persona/Create .... crear el elemento y enviarlo a mostrar

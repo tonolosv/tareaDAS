@@ -63,7 +63,7 @@ using tareaDAS.Models;
             WriteLiteral("\r\n<h2>Información General</h2>\r\n<hr />\r\n\r\n<p>\r\n    ");
             EndContext();
             BeginContext(145, 46, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0ced51d520ac47b6ad451964d532f39e", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fb3cdd6d43da4db0bfe0e215f7494c36", async() => {
                 BeginContext(168, 19, true);
                 WriteLiteral("Ingreso de personal");
                 EndContext();
